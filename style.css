@@ -328,6 +328,15 @@ margin-right: 10%;
             .group2{
                 margin-top: 10px;
             }
+            .parent {
+             margin-bottom: -55%;
+            }
+            .image1{
+              margin-top: 35%;
+            }
+            .image2{
+              margin-top: 35%;
+            }
         }
 /***IMAGE OVER IMAGEEEEE***********************88*/
 
@@ -335,6 +344,7 @@ margin-right: 10%;
         position: relative;
         top: 0;
         left: 0;
+        margin-top: 1%;
       }
       .image1 {
         position: relative;
